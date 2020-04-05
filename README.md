@@ -1,2 +1,5 @@
-# timber-statement-data-sync
-Shiny application to process timber statement from data collected using QField mobile GIS app. 
+# Timber Statement Data Sync
+
+Shiny application to process data collected using QField mobile GIS app and generate timber statements. 
+
+
