@@ -43,7 +43,7 @@ ui <- navbarPage(
         hr(),
 
         # Input: zone for royalties and fees
-        tags$p("Select zone where date was collected:"),
+        tags$p("Select zone where data was collected:"),
         tags$p("zone 1: Viti Levu"),
         tags$p("zone 2: Vanua Levu"),
         tags$p("zone 3: All other islands"),
